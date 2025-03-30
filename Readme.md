@@ -14,7 +14,7 @@ Before running the app locally, ensure that you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nuwanwimalasena/advanced-todo-app.git
+git clone https://github.com/nuwanwimalasena/Advanced-Todo-List
 cd advanced-todo-app
 ```
 
