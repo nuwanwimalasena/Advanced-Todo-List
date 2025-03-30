@@ -12,7 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/mongoose": "^5.11.97",
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "dotenv": "^16.4.7",
@@ -22,6 +21,7 @@
     "node-cron": "^3.0.3"
   },
   "devDependencies": {
+    "@types/mongoose": "^5.11.97",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.1",
     "@types/node": "^22.13.14",
